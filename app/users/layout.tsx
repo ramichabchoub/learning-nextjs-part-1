@@ -7,7 +7,7 @@ export default function AboutLayout({
 }) {
   return (
     <>
-      <nav>Nested nav for about page</nav>
+      <nav>Nested nav for user page</nav>
       <main className={styles.main}>{children}</main>
     </>
   );

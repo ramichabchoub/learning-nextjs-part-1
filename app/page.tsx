@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <main>
       <div>Hello World!</div>
-      <Link href="/about">Go to about page</Link>
+      <Link href="/users">Go to user page</Link>
     </main>
   );
 }
